@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+        <title>touchImage Example</title>
+        <style type="text/css" media="screen">
+        	body{
+        		margin: 0px;
+        		padding: 0px;
+        		font-family: helvetica, arial, sans-serif;
+        		color:#999999;
+        	}
+          </style>
+    </head>
+    <body>
+    	<canvas id="myCanvas" width="500" height="500"></canvas>
+    	<br>
+    	You have to use a mobile device (like <strong>iPad2</strong> or greater) to test this demo. 
+        
+        <script src="js/touchImage.js"></script>
+        <script type="text/javascript">
+
+        touchImage.init('myCanvas','img/image.png');
+
+        </script>
+    </body>
+</html>
