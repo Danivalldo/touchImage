@@ -5,10 +5,12 @@ A Javascript library based on Html5 Canvas tag, to create an image viewer that c
 
 _ _ _ _ _ _ _ _ _
 
+I'm working on the update to admit more than one image in the same canvas, so the user will jump into different images by swiping
+
 tested on Ipad2, Ipad4, Iphone
 
 And it has no licence. It's all yours!
 
-http://www.dimo.cat
-Dimo Visual Creatives S.C.P.
+http://www.dimo.cat<br/>
+Dimo Visual Creatives S.C.P.<br/>
 @DaniValldo
